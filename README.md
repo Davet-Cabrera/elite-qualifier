@@ -11,7 +11,9 @@ This is probably the simplest (and worst) chat bot that you've ever seen. It doe
 I made this because it was an activity for Code2College's Elite 101.
 
 ## Install
-Just kind of run it in replit or something.
+Just run it in replit.
 
 ## Usage
-Just talk to the bot. Type something, see what it says, type something else.
+Just talk to the bot. Type something, see what it says, type something else. Varation of responses.
+
+
