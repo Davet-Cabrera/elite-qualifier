@@ -15,3 +15,9 @@ Just kind of run it in replit or something.
 
 ## Usage
 Just talk to the bot. Type something, see what it says, type something else.
+
+## Test Plan
+To test the project,
+
+1. Run the test
+2. Check the results
