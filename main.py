@@ -5,7 +5,7 @@ user_input = input("Hello, how are you? If you want to stop talking, type \"quit
 good_answers = ["good","great","well","fine","okay","yes","ok"]
 bad_answers = ["bad","not good","terrible","no"]
 
-responses = ["Alright.","Okay.","Nice.","Cool." ]
+responses = ["Nice!","Cool!"]
 
 def good_or_bad(answer,good,bad):
   if answer in good_answers:
